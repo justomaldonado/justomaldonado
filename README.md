@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Justo Maldonado</h1>
-<h3 align="center">A passionate software developer with business background from Argentina</h3>
+<h3 align="center">A passionate software developer with business background, from Argentina 
+🇦🇷</h3>
 
 - 🔭 I’m currently working on [a personal E-Commerce Project related to my own clothing brand](https://trashtalktm.com/)
 
 - 🌱 I’m currently improving my skills on **AWS, Next JS & MongoDB**
 
-- 📫 How to reach me **maldonadojusto99@gmail.com**
+- 📫 Reach me at **maldonadojusto99@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/justomaldonado/](https://www.linkedin.com/in/justomaldonado/)
 
-- ⚡ Fun fact **I've designed my own line of custom streetwear, infusing my personal style into fashion that's both comfortable and sophisticated.**
+- ⚡ Fun fact **I've designed my own line of custom streetwear, infusing my personal style into fashion that's both comfortable and sophisticated. My dream is to fusion technology with clothes.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
