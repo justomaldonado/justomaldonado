@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/justomaldonado/](https://www.linkedin.com/in/justomaldonado/)
 
-- ⚡ Fun fact **I've designed my own line of custom streetwear, infusing my personal style into fashion that's both comfortable and sophisticated. My dream is to fusion technology with clothes.**
+- ⚡ Fun fact **I've designed my own line of custom streetwear, infusing my personal style into fashion that's both comfortable and sophisticated. My dream is to fusion high-end technology with clothes.**
 
 
 ## Languages
